@@ -1,0 +1,97 @@
+[KGameTheme]
+VersionFormat=0.8
+Name=Egyptian
+Name[bs]=Egipatski
+Name[ca]=Egipci
+Name[ca@valencia]=Egipci
+Name[cs]=Egyptské
+Name[da]=Egyptisk
+Name[de]=Ägyptisch
+Name[el]=Αιγύπτιο
+Name[en_GB]=Egyptian
+Name[es]=Egipcio
+Name[et]=Egiptus
+Name[eu]=Egiptoarra
+Name[fi]=Egyptiläinen
+Name[fr]=Égyptien
+Name[ga]=Éigipteach
+Name[gl]=Exipcio
+Name[hu]=Egyiptomi
+Name[id]=Mesir
+Name[it]=Egizio
+Name[kk]=Мысырша
+Name[km]=អេហ្ស៊ីប
+Name[ko]=이집트
+Name[lt]=Egipto
+Name[lv]=Ēģiptes
+Name[mr]=इजिप्शियन
+Name[nb]=Egyptisk
+Name[nds]=Ägyptsch
+Name[nl]=Egyptenaar
+Name[nn]=Egyptisk
+Name[pl]=Egipski
+Name[pt]=Egípcio
+Name[pt_BR]=Egípcio
+Name[ro]=Egiptean
+Name[ru]=Египетский
+Name[sk]=Egyptská
+Name[sl]=Egipt
+Name[sq]=Egjiptian
+Name[sr]=Египатски
+Name[sr@ijekavian]=Египатски
+Name[sr@ijekavianlatin]=Egipatski
+Name[sr@latin]=Egipatski
+Name[sv]=Egyptisk
+Name[tr]=Mısırlı
+Name[ug]=مىسىرلىق
+Name[uk]=Єгиптянин
+Name[wa]=Edjipcyin
+Name[x-test]=xxEgyptianxx
+Name[zh_CN]=埃及
+Name[zh_TW]=埃及式
+Description=An Egyptian style theme for Kolor Lines.
+Description[ca]=Un tema d'estil egipci per al Kolor Lines.
+Description[ca@valencia]=Un tema d'estil egipci per al Kolor Lines.
+Description[cs]=Motiv pro Kolor Lines v egyptském stylu.
+Description[de]=Das ägyptische Design für Kolor Lines.
+Description[en_GB]=An Egyptian style theme for Kolor Lines.
+Description[es]=Tema de estilo egipcio para Líneas de color.
+Description[eu]=«Kolor Lines», kolore lerroetarako Egiptoko estiloko gai bat.
+Description[fr]=Un thème dans le style égyptien pour KLines.
+Description[it]=Tema in stile egizio per Kolor Lines.
+Description[ko]=Kolor Lines 이집트 스타일 테마입니다.
+Description[nl]=Thema in Egyptische stijl voor Kolor Lines.
+Description[pl]=Wystrój po Egipsku dla Kolorowych Linii.
+Description[pt_BR]=Um tema de estilo egípcio para o Kolor Lines.
+Description[sl]=Egipčanska tema sloga za Kolor Lines.
+Description[sv]=Tema med egyptisk stil för Färglinjer.
+Description[uk]=Тема у єгипетському стилі для «Кольорових ліній».
+Description[x-test]=xxAn Egyptian style theme for Kolor Lines.xx
+FileName=egyptian.svgz
+Author=Sean Wilson
+AuthorEmail=suseux@gmail.com
+Preview=egyptian.png
+Default=true
+
+# number of "born" animation frames in svg
+NumBornFrames=4
+
+# number of "selected" animation frames in svg
+NumSelectedFrames=4
+
+# number of "die" animation frames in svg
+NumDieFrames=4
+
+# Timing settings:
+
+# amount of milliseconds to play one cycle of "born"-animation
+BornAnimDuration=500
+
+# amount of milliseconds to play one cycle of "selected"-animation
+SelectedAnimDuration=600
+
+# amount of milliseconds to play one cycle "die"-animation
+DieAnimDuration=500
+
+# amount of milliseconds to move the ball through one cell
+MoveAnimDuration=100
